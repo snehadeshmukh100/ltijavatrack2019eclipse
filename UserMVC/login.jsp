@@ -28,6 +28,8 @@ String message=request.getParameter("message");
 	<%
 	}
 	%>
+	Username:<input type="text" name="name" width="100px"/>
+	<br><br>
 	Email:<input type="text" name="email" width="100px"/>
 	<br><br>
 	Password:<input type="password" name="password" width="100px"/>
